@@ -2,5 +2,85 @@
   "videos": [
     "Xs-Sphere-Test",
     "Xs-Sphere-Test_1"
-    ]
+  ],
+  "modelObjects": [
+    {
+      "modelName" : "moon",
+      "coverImage": "UI_Icon_VFX_Lasers",
+      "modelBundleName": "moon",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName" : "earth",
+      "coverImage": "UI_Icon_VFX_Lasers",
+      "modelBundleName": "earth",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName" : "jupiter",
+      "coverImage": "UI_Icon_VFX_Lasers",
+      "modelBundleName": "jupiter",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName" : "mars",
+      "coverImage": "UI_Icon_VFX_Lasers",
+      "modelBundleName": "mars",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName" : "saturn",
+      "coverImage": "UI_Icon_VFX_Lasers",
+      "modelBundleName": "saturn",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName" : "pluto",
+      "coverImage": "UI_Icon_VFX_Lasers",
+      "modelBundleName": "pluto",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName" : "mercury",
+      "coverImage": "UI_Icon_VFX_Lasers",
+      "modelBundleName": "mercury",
+      "modelBundle": null,
+      "modelSprite": null
+    },{
+      "modelName" : "neptune",
+      "coverImage": "UI_Icon_VFX_Lasers",
+      "modelBundleName": "moon",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName" : "neptune",
+      "coverImage": "UI_Icon_VFX_Lasers",
+      "modelBundleName": "moon",
+      "modelBundle": null,
+      "modelSprite": null
+    }
+  ],
+  "videoObjects": [
+    {
+      "modelName" : "video",
+      "coverImage": "UI_Icon_VFX_Lasers",
+      "modelBundleName": "video",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName" : "plane",
+      "coverImage": "UI_Icon_VFX_Lasers",
+      "modelBundleName": "plane",
+      "modelBundle": null,
+      "modelSprite": null
+    }
+  ]
 }
