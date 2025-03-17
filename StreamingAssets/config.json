@@ -1,7 +1,21 @@
 {
-  "videos": [
-    "Xs-Sphere-Test",
-    "Xs-Sphere-Test_1"
+  "videosData": [
+    {
+      "videoIcon" : "video1Icon",
+      "videoName": "SpherePlanet"
+    },
+    {
+      "videoIcon" : "video1Icon",
+      "videoName": "video1"
+    },
+    {
+      "videoIcon" : "video2Icon",
+      "videoName": "video2"
+    },
+    {
+      "videoIcon" : "video3Icon",
+      "videoName": "video3"
+    }
   ],
   "modelObjects": [
     {
@@ -76,9 +90,9 @@
       "modelSprite": null
     },
     {
-      "modelName" : "plane",
+      "modelName" : "sphere2",
       "coverImage": "UI_Icon_VFX_Lasers",
-      "modelBundleName": "plane",
+      "modelBundleName": "sphere2",
       "modelBundle": null,
       "modelSprite": null
     }
