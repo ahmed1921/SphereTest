@@ -19,80 +19,88 @@
   ],
   "modelObjects": [
     {
-      "modelName" : "moon",
+      "modelName" : "Small Hall",
       "coverImage": "UI_Icon_VFX_Lasers",
-      "modelBundleName": "moon",
+      "modelBundleName": "env_smallhall",
       "modelBundle": null,
       "modelSprite": null
     },
     {
-      "modelName" : "earth",
+      "modelName" : "Large hall",
       "coverImage": "UI_Icon_VFX_Lasers",
-      "modelBundleName": "earth",
-      "modelBundle": null,
-      "modelSprite": null
-    },
-    {
-      "modelName" : "jupiter",
-      "coverImage": "UI_Icon_VFX_Lasers",
-      "modelBundleName": "jupiter",
-      "modelBundle": null,
-      "modelSprite": null
-    },
-    {
-      "modelName" : "mars",
-      "coverImage": "UI_Icon_VFX_Lasers",
-      "modelBundleName": "mars",
-      "modelBundle": null,
-      "modelSprite": null
-    },
-    {
-      "modelName" : "saturn",
-      "coverImage": "UI_Icon_VFX_Lasers",
-      "modelBundleName": "saturn",
-      "modelBundle": null,
-      "modelSprite": null
-    },
-    {
-      "modelName" : "pluto",
-      "coverImage": "UI_Icon_VFX_Lasers",
-      "modelBundleName": "pluto",
-      "modelBundle": null,
-      "modelSprite": null
-    },
-    {
-      "modelName" : "mercury",
-      "coverImage": "UI_Icon_VFX_Lasers",
-      "modelBundleName": "mercury",
-      "modelBundle": null,
-      "modelSprite": null
-    },{
-      "modelName" : "neptune",
-      "coverImage": "UI_Icon_VFX_Lasers",
-      "modelBundleName": "moon",
-      "modelBundle": null,
-      "modelSprite": null
-    },
-    {
-      "modelName" : "neptune",
-      "coverImage": "UI_Icon_VFX_Lasers",
-      "modelBundleName": "moon",
+      "modelBundleName": "env_largehall",
       "modelBundle": null,
       "modelSprite": null
     }
   ],
   "videoObjects": [
     {
-      "modelName" : "video",
-      "coverImage": "UI_Icon_VFX_Lasers",
-      "modelBundleName": "video",
+      "modelName": "Floor Mount .76m P3",
+      "coverImage": "BaseNormal",
+      "modelBundleName": "led_bottom_760mm_p3",
       "modelBundle": null,
       "modelSprite": null
     },
     {
-      "modelName" : "sphere2",
-      "coverImage": "UI_Icon_VFX_Lasers",
-      "modelBundleName": "sphere2",
+      "modelName": "Floor Mount 1.2m P3",
+      "coverImage": "BaseReverse",
+      "modelBundleName": "led_bottom_1200mm_p2",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName": "Floor Mount 1.2m P2.5",
+      "coverImage": "BigNormal",
+      "modelBundleName": "led_bottom_1200mm_p2.5",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName": "Floor Mount 2m P2.5",
+      "coverImage": "BigReverse",
+      "modelBundleName": "led_bottom_2000mm_p2.5",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName": "Floor Mount 2.5m P3",
+      "coverImage": "BigReverse",
+      "modelBundleName": "led_bottom_2500mm_p3",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName": "Top Mount .76m P3",
+      "coverImage": "BaseNormal",
+      "modelBundleName": "led_top_760mm_p3",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName": "Top Mount 1.2m P2",
+      "coverImage": "BaseReverse",
+      "modelBundleName": "led_top_1200mm_p2",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName": "Top Mount 1.2m P2.5",
+      "coverImage": "BigNormal",
+      "modelBundleName": "led_top_1200mm_p2.5",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName": "Top Mount 2m P2.5",
+      "coverImage": "BigReverse",
+      "modelBundleName": "led_top_2000mm_p2.5",
+      "modelBundle": null,
+      "modelSprite": null
+    },
+    {
+      "modelName": "Top Mount 2.5m P3",
+      "coverImage": "BigReverse",
+      "modelBundleName": "led_top_2500mm_p3",
       "modelBundle": null,
       "modelSprite": null
     }
